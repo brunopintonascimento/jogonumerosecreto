@@ -1,7 +1,8 @@
 # 🎯 Jogo do Número Secreto
-
+https://jogo-seven-drab.vercel.app/
 ## 📌 Sobre o Projeto
 O **Jogo do Número Secreto** é um jogo interativo desenvolvido com **HTML, CSS e JavaScript**. O objetivo é simples: adivinhar um número aleatório dentro de um intervalo definido. Um passatempo divertido e desafiador!
+
 
 ## 🚀 Funcionalidades
 - 🔢 Geração aleatória do número secreto.
