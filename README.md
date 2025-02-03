@@ -58,5 +58,5 @@ Se desejar ativar a leitura de voz com o **ResponsiveVoice.js**, siga estes pass
 
 ## 👨‍💻 Autor
 Criado por **Bruno Pinto Nascimento**. 
-📌 Confira mais projetos no meu [GitHub](https://github.com/seu-usuario).
+
 
